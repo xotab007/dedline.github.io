@@ -1,0 +1,16 @@
+*<iframe width="
+*" height="
+*"  src=
+* title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*"https://www.youtube.com/embed/oSM2zkr5XCA" 
+*"https://www.youtube.com/embed/1JDxnXLhcrQ" 
+*"https://www.youtube.com/embed/ZKoXW0PbN8g" 
+*"https://www.youtube.com/embed/jse2U0M42D0" 
+*"https://www.youtube.com/embed/ZhxUG4vld18" 
+*"https://www.youtube.com/embed/8Un-FlzqqN8" 
+*"https://www.youtube.com/embed/FGuJPMGWVN8" 
+*"https://www.youtube.com/embed/1JDxnXLhcrQ" 
+*"https://www.youtube.com/embed/1JDxnXLhcrQ" 
+*"https://www.youtube.com/embed/ZhxUG4vld18" 
+*"https://www.youtube.com/embed/4H9cFoT9pZA" 
+*<iframe width="480" height="720" src="https://www.youtube.com/embed/4H9cFoT9pZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
